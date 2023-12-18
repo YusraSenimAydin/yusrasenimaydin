@@ -1,6 +1,7 @@
 ### Hello 👋 I'm a Front End Developer.
 
-
+<p>Front-End Developer with 2+ year in software with a desire to learn and grow in a
+collaborative team environment. Proficient in JavaScript, React, and Next.js. </p>
 <div >
    <img align="right" src="https://giffiles.alphacoders.com/362/36246.gif">
 </h3>
