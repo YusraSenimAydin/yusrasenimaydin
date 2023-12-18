@@ -1,4 +1,4 @@
-### Hello 👋 I'm a Jr Front End Developer.
+### Hello 👋 I'm a Front End Developer.
 
 
 <div >
